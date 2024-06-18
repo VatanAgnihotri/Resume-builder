@@ -1,4 +1,3 @@
 # Resume-builder
 
-
-This is an application which can be used to a resume free of cost.
+This repository is an application that can be used to build a resume free of cost..
